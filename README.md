@@ -1,0 +1,1 @@
+Manual SSR and Hydration without any framework
